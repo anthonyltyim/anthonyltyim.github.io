@@ -4,7 +4,9 @@ title: "About Me"
 ategories: jekyll update
 image: AnthonyYim.jpg
 ---
-{{page.image}}
+!{Hi! I am Anthony Yim}({{page.image}})
+
+## H2
 
 Welcome to my website. I am a Ph.D. candidate in the Department of Economics from the Krannert School of Business at Purdue University. My research focues on Labor and Education Economics.
 
