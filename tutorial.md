@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "index"
+title: "Tutorial"
 ---
 
 {% if site.show_excerpts %}
