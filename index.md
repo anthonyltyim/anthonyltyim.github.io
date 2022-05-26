@@ -4,7 +4,7 @@ title: "About Me"
 ategories: jekyll update
 image: AnthonyYim.jpg
 ---
-!{Hi! I am Anthony Yim}({{page.image | relative_url}})
+!{}({{ page.image | relative_url }})
 
 ##
 
