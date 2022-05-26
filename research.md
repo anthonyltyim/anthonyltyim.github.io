@@ -12,7 +12,7 @@ Abstract: In this paper, I intend to examine how early morning (7:30 AM) classes
 “Kindness and Wage Gap” 
 
 Abstract: In this paper, I investigate the impact of kindness on wage returns from five specific occupation classes: unskilled, partly skilled, skilled, managerial, and professional occupations. By using the 1958 National Child Development Study (NCDS), I find that kind women are rewarded, but kind men are punished in unskilled occupations. This may be due to gender norm bias and the working cultures that do not require significant interpersonal and communication skills. On the other hand, both kind men and women in managerial occupations are rewarded, but men in managerial occupations have higher returns than women do. This may be attributed to the fact that managerial occupations require higher degrees of interpersonal communication skills with co-workers. Also, kindness among managerial workers would reduce communication cost and therefore, boost productivity.
- 
+
 WORK-IN-PROGRESS
 
 “The Effect of Teacher Gender on Students' Education Outcomes” 
