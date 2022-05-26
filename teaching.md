@@ -26,4 +26,3 @@ Purdue University
      ECON 21000 - Principles of Economics (undergraduate), Instructor, Summer 2020
 
      ECON 21000 - Principles of Economics (undergraduate), Teaching Assistant to Ben Van Kammen, Fall 2018
-
