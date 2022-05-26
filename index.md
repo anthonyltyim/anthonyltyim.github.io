@@ -2,7 +2,7 @@
 layout: page
 title: "About Me"
 ategories: jekyll update
-image: AnthonyYim
+image: AnthonyYim.jpg
 ---
 Welcome to my website. I am a Ph.D. candidate in the Department of Economics from the Krannert School of Business at Purdue University. My research focues on Labor and Education Economics.
 
